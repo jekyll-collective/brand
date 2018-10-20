@@ -10,4 +10,4 @@
 
 ## PlaylistFF
 
-The playlist font is only used for the word `Jekyll` in the logo files. It's purpose is to highlight the words by using a very different font face. In addition to that it mimics the font of the original jekyll logo.
+The playlist font is only used for the word `Jekyll` in the logo files. Its purpose is to highlight the words by using a very different font face. In addition to that, it mimics the font of the original jekyll logo.
